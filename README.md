@@ -5,12 +5,12 @@ Vårt garage, är det vackraste finaste garaget i världen!
 
 huh?
 
-Databas
-RegNr Key
-Owner
-Color
-NumberOfWheels
-VehicleType (Latbil, Bil, Buss, Motorcykel)
-StopTime
-StartTime
-Spot
+Databas </br>
+RegNr Key</br>
+Owner</br>
+Color</br>
+NumberOfWheels</br>
+VehicleType (Latbil, Bil, Buss, Motorcykel)</br>
+StopTime</br>
+StartTime</br>
+Spot</br>
